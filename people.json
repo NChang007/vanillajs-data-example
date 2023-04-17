@@ -1,0 +1,22 @@
+{
+    "people": [
+        {
+            "first_name": "Nelson",
+            "last_name": "Chang",
+            "disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur nemo voluptas veritatis omnis perspiciatis sed deleniti dignissimos corporis. Vitae aliquam minima in veritatis ullam iure autem cumque consequatur doloremque ducimus.",
+            "github":"https://github.com/NChang007"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Chang",
+            "disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur nemo voluptas veritatis omnis perspiciatis sed deleniti dignissimos corporis. Vitae aliquam minima in veritatis ullam iure autem cumque consequatur doloremque ducimus.",
+            "github":"https://github.com/djoker07"
+        },
+        {
+            "first_name": "Bianca",
+            "last_name": "Chang",
+            "disc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur nemo voluptas veritatis omnis perspiciatis sed deleniti dignissimos corporis. Vitae aliquam minima in veritatis ullam iure autem cumque consequatur doloremque ducimus.",
+            "github":"https://github.com/Bianca11810"
+        }
+    ]
+}
